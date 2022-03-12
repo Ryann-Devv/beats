@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2C2C2C;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #000000;
+}
+
+h1 {
+  color: #fff;
+  position: absolute;
+
+  font-size: 35px
+}
+#LOGO {
+  color: #fff;
+  position: absolute;
+  top: 35%;
+  left: 3%;
+   width: 25%;
+    height: 35%
+  
+}
+#SLOGON {
+  color: #fff;
+  position: absolute;
+  top: 45%;
+    left: 40%;
+   
+  font-size: 25px
+}
+#LISTEN {
+   color: #fff;
+  position: absolute;
+  left: 20%;
+  font-size: 30px;
+  top: 55%;
+  text-decoration: none
+}
+
